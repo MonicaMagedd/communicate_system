@@ -10,6 +10,8 @@ gem 'mysql2'
 gem 'puma', '~> 3.11'
 gem 'active_model_serializers', '~> 0.10.0'
 gem 'rails-jquery-autocomplete'
+gem 'elasticsearch-model', github: 'elastic/elasticsearch-rails', branch: '5.x'
+gem 'elasticsearch-rails', github: 'elastic/elasticsearch-rails', branch: '5.x'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
