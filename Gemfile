@@ -7,7 +7,7 @@ gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 gem 'mysql2'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'active_model_serializers', '~> 0.10.0'
 gem 'rails-jquery-autocomplete'
 gem 'elasticsearch-model', github: 'elastic/elasticsearch-rails', branch: '5.x'
